@@ -1,4 +1,4 @@
-# 📘 JavaScript Beginner Programs
+# JavaScript Beginner Programs
 
 This repository contains simple JavaScript programs demonstrating basic concepts like conditional statements, operators, and control flow.
 
@@ -8,7 +8,7 @@ This repository contains simple JavaScript programs demonstrating basic concepts
 
 A basic calculator that performs arithmetic operations based on the selected operator.
 
-### 💡 Features
+### Features
 - Supports `+`, `-`, `*`, `/`
 - Handles division by zero
 - Displays result in the console
@@ -17,7 +17,7 @@ A basic calculator that performs arithmetic operations based on the selected ope
 
 This program calculates a student's grade, result, and remark based on marks.
 
-### 💡 Features
+### Features
 
 - Adds bonus marks  
 - Assigns grades (`A`, `B`, `C`, `F`)  
