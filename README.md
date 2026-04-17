@@ -25,4 +25,6 @@ This program calculates a student's grade, result, and remark based on marks.
 - Uses `switch` for remarks
 
 ### Connect With Me 🤝 :
-www.linkedin.com/in/harshaasg
+- LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
+
+---
